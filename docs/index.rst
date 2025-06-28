@@ -4,7 +4,7 @@ How to Contact Kia Customer Service? 📞🚘
 
 We’ve all been there. You're trying to schedule service, report an issue, or just need some guidance — and you’re not sure how to reach **Kia customer service**. Don’t worry! 😌 Whether it’s a simple question or urgent support, Kia offers several ways to connect with their helpful team.
 
-.. image:: start.png
+.. image:: service-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
